@@ -1,4 +1,4 @@
 who
-ever
+every
 I
 want
